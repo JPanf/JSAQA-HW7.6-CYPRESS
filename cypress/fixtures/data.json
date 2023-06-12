@@ -1,0 +1,7 @@
+{
+  "tilte": "Book1",
+  "description": "Description",
+  "fileCover": "cypress/fixtures/bookCover.jpg",
+  "fileBook": "cypress/fixtures/book.txt",
+  "authors": "Author"
+}
